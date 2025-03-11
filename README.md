@@ -6,7 +6,7 @@
 Kanishk Gour
 
 # Profession 
-working for HFT's
+working in HFT's
 
 # learn
 Web Development
